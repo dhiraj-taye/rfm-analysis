@@ -21,12 +21,12 @@
 | **Lost** | **8** | **2.7%** | 💀 Reactivate | Last call |
 
 ## 🛠️ Tech Stack
-**BigQuery SQL: UNION ALL + CTEs + NTILE(10)
-**Power BI: RFM Scatter + KPIs + Slicers
+**BigQuery SQL**: UNION ALL + CTEs + NTILE(10)
+**Power BI**: RFM Scatter + KPIs + Slicers
 
 
 ## 💻 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 **RFM Plot**: Freq(X) vs Monetary(Y) | Size=Recency | Color=Segment
 
